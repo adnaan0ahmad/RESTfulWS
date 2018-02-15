@@ -1,0 +1,5 @@
+GET: 	http://localhost:8090/RestList/user/all
+GET: 	http://localhost:8090/RestList/user/{id}
+DELETE:	http://localhost:8090/RestList/user/{id}
+PUT: 	http://localhost:8090/RestList/user/
+POST: 	http://localhost:8090/RestList/user/add
